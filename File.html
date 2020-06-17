@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>练习</title>
 </head>
 <body>
 <h1>DEMO</h1>
